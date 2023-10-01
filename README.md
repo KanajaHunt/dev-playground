@@ -18,3 +18,10 @@
 # Run
 
 `npm start`
+
+---
+
+# Live site!
+- Demo email:ana@ana.com
+- Demo password:anaanaana
+- https://devplayground.onrender.com
